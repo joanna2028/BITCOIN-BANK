@@ -1,6 +1,6 @@
 
 
-# Global-Digital-Jurisdiction-of-Planet-Earth-  
+# Global-Digital-Jurisdiction-Planet-Earth-  
 # VISION OF THE PROJECT
 
 
