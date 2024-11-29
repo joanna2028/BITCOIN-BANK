@@ -37,9 +37,9 @@ Companies → Proof of Company DAOs
 
 INTERNET ID SYSTEM →  Planetary ID wallets
 
-Planet ID wallet for people → Planet Earth NFT Passports → Planetary Citizens.
-Planet ID wallet for Nations  ...   ( WORK IN PROGRESS )         
-Planet ID wallet for Companies ...  ( WORK IN PROGRESS )     
+* Planet ID wallet for people → Planet Earth NFT Passports → Planetary Citizens.
+* Planet ID wallet for Nations  ...   ( WORK IN PROGRESS )         
+* Planet ID wallet for Companies ...  ( WORK IN PROGRESS )     
 
                           
 New web browser extension & mobile app to allow People - Nations - Companies to interact with INTERNET / BITCOIN BANK.
