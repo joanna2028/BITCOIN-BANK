@@ -1,0 +1,54 @@
+import bitcoin
+import json
+
+class BitcoinBank:
+    def __init__(self):
+        self.accounts = {}
+
+    def create_account(self, username):
+        if username in self.accounts:
+            return "Account already exists."
+        private_key = bitcoin.random_key()
+        public_key = bitcoin.privtopub(private_key)
+        self.accounts[username] = {
+            'private_key': private_key,
+            'public_key': public_key,
+            'balance': 0
+        }
+        return f"Account created for {username}. Public Key: {public_key}"
+
+    def get_balance(self, username):
+        if username not in self.accounts:
+            return "Account does not exist."
+        return self.accounts[username]['balance']
+
+    def deposit(self, username, amount):
+        if username not in self.accounts:
+            return "Account does not exist."
+        if amount <= 0:
+            return "Deposit amount must be positive."
+        self.accounts[username]['balance'] += amount
+        return f"Deposited {amount} to {username}. New balance: {self.accounts[username]['balance']}"
+
+    def withdraw(self, username, amount):
+        if username not in self.accounts:
+            return "Account does not exist."
+        if amount <= 0:
+            return "Withdrawal amount must be positive."
+        if amount > self.accounts[username]['balance']:
+            return "Insufficient funds."
+        self.accounts[username]['balance'] -= amount
+        return f"Withdrew {amount} from {username}. New balance: {self.accounts[username]['balance']}"
+
+    def serialize_accounts(self):
+        return json.dumps(self.accounts)
+
+# Example usage
+if __name__ == "__main__":
+    bank = BitcoinBank()
+    print(bank.create_account("Alice"))
+    print(bank.deposit("Alice", 100))
+    print(bank.get_balance("Alice"))
+    print(bank.withdraw("Alice", 50))
+    print(bank.get_balance("Alice"))
+    print(bank.serialize_accounts())
