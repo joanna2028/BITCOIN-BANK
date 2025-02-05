@@ -1,14 +1,14 @@
 
 
-# Global-Digital-Jurisdiction-Planet-Earth-  
-# VISION OF THE PROJECT
+# INTERNET JURISDICTION
+# VISION OF THE PROJECT: BITCOIN AGI
 
 
 https://web.archive.org/web/20230203191039/https://prajnainitiative.org/
 
-AGI: https://docs.google.com/presentation/d/1nnWWCamxScF6oE2LdC8fWVX84yC9aj4thhxj9_ihrwY/edit?usp=sharing
+https://docs.google.com/presentation/d/1nnWWCamxScF6oE2LdC8fWVX84yC9aj4thhxj9_ihrwY/edit?usp=sharing
 
-bitcoin bank: https://docs.google.com/presentation/d/196gtWfT2QS2JPgCIoM2pBeMoBn0d0ZtuGjp4GnaqXuk/edit?usp=sharing
+https://docs.google.com/presentation/d/196gtWfT2QS2JPgCIoM2pBeMoBn0d0ZtuGjp4GnaqXuk/edit?usp=sharing
 
 
 Global Government
@@ -149,7 +149,6 @@ We replace IMF with BITCOIN BANK. ( X BANK )
 http://planetarycouncil.org/
 
             
-https://docs.google.com/document/d/1mKfYpvp44EFHc4ZLKeQ42f6tS3H2wYwcgKYU1nV1q_I/edit#
 
 
 
