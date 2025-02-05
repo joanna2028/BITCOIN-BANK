@@ -6,24 +6,23 @@
 
 https://web.archive.org/web/20230203191039/https://prajnainitiative.org/
 
-https://docs.google.com/document/d/1h4Hp4WBvlf7uAcdcTOJx4oQfrS8ZbH3-2XznwlGXer4/edit
+AGI: https://docs.google.com/presentation/d/1nnWWCamxScF6oE2LdC8fWVX84yC9aj4thhxj9_ihrwY/edit?usp=sharing
 
-https://docs.google.com/presentation/d/10jnuJJBfE3Agah1H3LuYfVnrIu2C6yrgOTK8bD3pw1w/edit
+bitcoin bank: https://docs.google.com/presentation/d/196gtWfT2QS2JPgCIoM2pBeMoBn0d0ZtuGjp4GnaqXuk/edit?usp=sharing
 
 
 Global Government
 
 https://www.youtube.com/watch?v=47s3XzURnk8&t=9s
 
-IMP= Ideological Money Pump (we are replacing IMF with IMP)
-Physix= Quantavote    (we are voting in global government using Physix - Quantavote)
+IMP= Ideological Money Pump ( we replace IMF for IMP )
+Physix= Quantavote    ( we vote in global government trough Physix )
 
 
 PLANET EARTH DAO -  Global Digital Jurisdiction
 
 
 8 Billion PEOPLE + NATION DAOs + Company DAOs → All in the same ledger.
-
 
 
 # DESCRIPTION OF THE PROJECT
@@ -37,13 +36,15 @@ Companies → Proof of Company DAOs
 
 INTERNET ID SYSTEM →  Planetary ID wallets
 
+https://github.com/TBD54566975/ssi-sdk/issues/560
+
 * Planet ID wallet for people → Planet Earth NFT Passports → Planetary Citizens.
 * Planet ID wallet for Nations  ...   ( WORK IN PROGRESS )         
-* Planet ID wallet for Companies ...  ( WORK IN PROGRESS )     
+* Planet ID wallet for Companies ...  ( WORK IN PROGRESS )
 
-                          
-New web browser extension & mobile app to allow People - Nations - Companies to interact with INTERNET / BITCOIN BANK.
+BITCOIN BANK on top of X
 
+People - Nations - Companies rule the INTERNET / X BANK
 
 
 # PROBLEM 
@@ -74,25 +75,25 @@ But we have to move forward & fast → We don’t have time to waste → because
 
 BITCOIN 
 
-(ethereum money supply will be converted in Bitcoin and allocated in INTERNET BANK, aka planetary DAO.) same Bitcoin supply.
+(ethereum money supply and all crypto currencies will be converted into Bitcoin and allocated in INTERNET BANK, aka planetary DAO) same Bitcoin supply.
 
 
-we allocate all cryptocurrencies on INTERNET BANK. ( Internet Bank will be X. condition: make X a DAO )
+we allocate all cryptocurrencies on INTERNET BANK. ( Internet Bank will be X. condition: make X a DAO first.
 
 
 
-Planetary DAO and its respective protocols,
+Planetary DAO and its respective protocols. ( all on top of X )
 
 
-* Global Taxation Protocol
-* Interplanetary ID system - Global NFT Passports
-* Planetary ID wallets
+* Global Taxation Protocol ( BITCOIN BANK ) i'm the founder
+* Planetary ID wallets ( NOSTR )
+* Interplanetary ID system - Global NFT Passports 
 
 
-To build  --> Global Government
+Global Government
 
 
-Some core use cases of Planet Earth DAO 
+Some core use cases of Planet Earth DAO ( X )
 
 * Land registry
 * Transparent gov spending
@@ -133,9 +134,9 @@ KEY words:  INDIVIDUALS CONTROL, ENABLING TRUSTED
 * Hacking the voting software
 
 
-We are replacing IMF wiht IMP
+We replace IMF with BITCOIN BANK. ( X BANK )
 
-IMF<IMP
+
         
        Ideological Money Pump
         
