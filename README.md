@@ -1,7 +1,7 @@
 
 
 # INTERNET JURISDICTION
-# VISION OF THE PROJECT: BITCOIN AGI
+# BITCOIN AGI
 
 
 https://web.archive.org/web/20230203191039/https://prajnainitiative.org/
