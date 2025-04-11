@@ -13,7 +13,6 @@ https://docs.google.com/presentation/d/196gtWfT2QS2JPgCIoM2pBeMoBn0d0ZtuGjp4Gnaq
 
 # GLOBAL GOV: WE THE PEOPLE
 
-https://www.youtube.com/watch?v=47s3XzURnk8&t=9s
 
 IMP= Ideological Money Pump ( we replace IMF for IMP )
 Physix= Quantavote    ( we vote in global government trough Physix )
