@@ -4,6 +4,7 @@
 # ₿ BITCOIN AGI
 
 https://github.com/joanna2028/Bitcoin-Govt-Bitcoin-Economy-New-Social-Contract/issues/1#issuecomment-2636229674
+
 https://web.archive.org/web/20230203191039/https://prajnainitiative.org/
 
 W3ID - ₿ BITCOIN WHITE PAPER 
