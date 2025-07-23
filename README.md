@@ -13,7 +13,7 @@ https://docs.google.com/presentation/d/1nnWWCamxScF6oE2LdC8fWVX84yC9aj4thhxj9_ih
 https://docs.google.com/presentation/d/196gtWfT2QS2JPgCIoM2pBeMoBn0d0ZtuGjp4GnaqXuk/edit?usp=sharing
 
 
-# GLOBAL GOVT: WE THE PEOPLE
+# GLOBAL GOV: WE THE PEOPLE
 
 
 IMP= Ideological Money Pump ( we replace IMF for IMP )
