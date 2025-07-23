@@ -79,11 +79,12 @@ But we have to move forward & fast → We don’t have time to waste
 
 BITCOIN 
 
-BITCOIN WORLD ORDER
+→ BITCOIN WORLD ORDER
 
 https://github.com/joanna2028/Bitcoin-Govt-Bitcoin-Economy-New-Social-Contract/issues/1#issuecomment-2636229674
 
-(ethereum money supply and all crypto-currencies will be converted into Bitcoin and allocated in INTERNET BANK, aka planetary DAO) same Bitcoin supply.
+
+( ethereum money supply and all crypto-currencies will be converted into Bitcoin and allocated in INTERNET BANK, aka planetary DAO ) same Bitcoin supply.
 
 
 we allocate all cryptocurrencies on INTERNET BANK. ( Internet Bank will be X. condition: make X a DAO first.
