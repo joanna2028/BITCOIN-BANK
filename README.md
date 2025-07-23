@@ -1,12 +1,12 @@
 
 
 # INTERNET JURISDICTION
-# BITCOIN AGI
+# ₿ BITCOIN AGI
 
-
+https://github.com/joanna2028/Bitcoin-Govt-Bitcoin-Economy-New-Social-Contract/issues/1#issuecomment-2636229674
 https://web.archive.org/web/20230203191039/https://prajnainitiative.org/
 
-W3ID - BITCOIN WHITE PAPER 
+W3ID - ₿ BITCOIN WHITE PAPER 
 
 https://www.canva.com/design/DAGt_Zq7HKw/Y1dMQD1wU7raSScMWLnwVA/view
 
@@ -15,7 +15,7 @@ https://docs.google.com/presentation/d/1nnWWCamxScF6oE2LdC8fWVX84yC9aj4thhxj9_ih
 https://docs.google.com/presentation/d/196gtWfT2QS2JPgCIoM2pBeMoBn0d0ZtuGjp4GnaqXuk/edit?usp=sharing
 
 
-# BITCOIN GOVT: WE THE PEOPLE
+# ₿ BITCOIN GOV: WE THE PEOPLE
 
 
 IMP= Ideological Money Pump ( we replace IMF for IMP )
@@ -150,6 +150,13 @@ We replace IMF with BITCOIN BANK. ( X BANK )
              
 
 http://planetarycouncil.org/
+
+
+
+
+REFERENCES: 
+
+
 
             
 
