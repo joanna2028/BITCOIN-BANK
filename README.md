@@ -6,6 +6,8 @@
 
 https://web.archive.org/web/20230203191039/https://prajnainitiative.org/
 
+W3ID - BITCOIN WHITE PAPER 
+
 https://www.canva.com/design/DAGt_Zq7HKw/Y1dMQD1wU7raSScMWLnwVA/view
 
 https://docs.google.com/presentation/d/1nnWWCamxScF6oE2LdC8fWVX84yC9aj4thhxj9_ihrwY/edit?usp=sharing
