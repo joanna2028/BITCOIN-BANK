@@ -66,11 +66,11 @@ You can have 1 unit of money = 1 vote, which is plutocracy, not democracy.
 Ethereum Blockchain just blindly executes rules. 
 The rules (that are effectively a monetary policy) are still written and approved by people, but these people aren't elected officials, but an oligarchy of developers and plutocracy of miners. And with Proof of Stake, the same happens with validators. POS is terrible.
 
-Anybody who has capital to do so<< can turn that capital into influence (through staking or mining).That is the definition of plutocracy. If it wasn't anyone, we'd be talking about aristocracy..
+Anybody who has capital to do so<< can turn that capital into influence (through staking or mining). That is the definition of plutocracy. If it wasn't anyone, we'd be talking about aristocracy..
 
-Blockchain is the best invention ever since the internet. (It has existed for 13 years) -->Yes
+Blockchain is the best invention ever since the internet
 
-But we have to move forward & fast → We don’t have time to waste → because of that I built →
+But we have to move forward & fast → We don’t have time to waste 
 
 
 
@@ -79,7 +79,11 @@ But we have to move forward & fast → We don’t have time to waste → because
 
 BITCOIN 
 
-(ethereum money supply and all crypto currencies will be converted into Bitcoin and allocated in INTERNET BANK, aka planetary DAO) same Bitcoin supply.
+BITCOIN WORLD ORDER
+
+https://github.com/joanna2028/Bitcoin-Govt-Bitcoin-Economy-New-Social-Contract/issues/1#issuecomment-2636229674
+
+(ethereum money supply and all crypto-currencies will be converted into Bitcoin and allocated in INTERNET BANK, aka planetary DAO) same Bitcoin supply.
 
 
 we allocate all cryptocurrencies on INTERNET BANK. ( Internet Bank will be X. condition: make X a DAO first.
