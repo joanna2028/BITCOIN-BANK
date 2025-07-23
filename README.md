@@ -147,16 +147,49 @@ We replace IMF with BITCOIN BANK. ( X BANK )
         
        we are voting with Physix - Q-Vote - AGI Consensus Mechanism
         
+
         
-             
+PLANETARY COUNCIL         
 
 http://planetarycouncil.org/
 
 
 
+My work:
 
-REFERENCES: 
+https://github.com/TBD54566975/ssi-sdk/issues/560
 
+https://github.com/joanna2028/simplex-chat/pull/1
+
+https://github.com/gov4git/gov4git-gov.public/issues/1
+
+https://github.com/twitter/the-algorithm/issues/14657
+
+https://github.com/joanna2028/bitcoin/pull/1
+
+https://github.com/joanna2028/Bitcoin-Govt-Bitcoin-Economy-New-Social-Contract/issues/1#issuecomment-2636229674
+
+
+
+Me:
+
+https://www.linkedin.com/in/jsmithnetwork/
+
+https://twitter.com/joanna_web
+
+https://linktr.ee/jsmithnetwork
+
+https://substack.com/@jpnetwork
+
+https://www.tiktok.com/@jsmithnetwork
+
+
+
+
+
+Active Bitcoin-Nostr Dev:
+
+primal.net/p/npub1pkx92m60skq9pzs90m3yqq9tvwh03xhzc0haeqqc4exjcu7l6ntsanxwks
 
 
             
