@@ -79,7 +79,7 @@ But we have to move forward & fast → We don’t have time to waste
 
 BITCOIN 
 
-→ BITCOIN WORLD ORDER
+BITCOIN WORLD ORDER
 
 https://github.com/joanna2028/Bitcoin-Govt-Bitcoin-Economy-New-Social-Contract/issues/1#issuecomment-2636229674
 
