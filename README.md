@@ -154,11 +154,6 @@ We replace IMF with BITCOIN BANK. ( X BANK )
         
 
         
-PLANETARY COUNCIL         
-
-http://planetarycouncil.org/
-
-
 
 My work:
 
@@ -194,7 +189,7 @@ https://www.tiktok.com/@jsmithnetwork
 
 Active Bitcoin-Nostr Dev:
 
-primal.net/p/npub1pkx92m60skq9pzs90m3yqq9tvwh03xhzc0haeqqc4exjcu7l6ntsanxwks
+http://primal.net/p/npub1pkx92m60skq9pzs90m3yqq9tvwh03xhzc0haeqqc4exjcu7l6ntsanxwks
 
 
             
