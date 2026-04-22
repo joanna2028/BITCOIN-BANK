@@ -18,12 +18,11 @@ https://docs.google.com/presentation/d/196gtWfT2QS2JPgCIoM2pBeMoBn0d0ZtuGjp4Gnaq
 
 # ₿ BITCOIN GOV: WE THE PEOPLE
 
+X BANK replaces IMF.
+we all vote where global money goes
 
-IMP= Ideological Money Pump ( we replace IMF for IMP )
-Physix= Quantavote    ( we vote in global government trough Physix )
 
-
-PLANET EARTH DAO -  Global Digital Jurisdiction
+PLANET EARTH DAO -  Global Digital Jurisdiction - Internet Jurisdiction
 
 
 8 Billion PEOPLE + NATION DAOs + Company DAOs → All in the same ledger.
