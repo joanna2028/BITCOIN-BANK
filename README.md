@@ -1,6 +1,6 @@
 
 
-# INTERNET JURISDICTION
+# ₿ BITCOIN BANK: World Jurisdiction
 # ₿ BITCOIN AGI
 
 https://github.com/joanna2028/Bitcoin-Govt-Bitcoin-Economy-New-Social-Contract/issues/1#issuecomment-2636229674
@@ -22,7 +22,7 @@ X BANK replaces IMF.
 we all vote where global money goes
 
 
-PLANET EARTH DAO -  Global Digital Jurisdiction - Internet Jurisdiction
+BITCOIN BANK - Global Digital Jurisdiction - Internet Jurisdiction
 
 
 8 Billion PEOPLE + NATION DAOs + Company DAOs → All in the same ledger.
@@ -41,7 +41,7 @@ INTERNET ID SYSTEM →  Planetary ID wallets
 
 https://github.com/TBD54566975/ssi-sdk/issues/560
 
-* Planet ID wallet for people → Planet Earth NFT Passports → Planetary Citizens.
+* Planet ID wallet for people → Planetary NFT Passports → Planetary Citizens.
 * Planet ID wallet for Nations  ...   ( WORK IN PROGRESS )         
 * Planet ID wallet for Companies ...  ( WORK IN PROGRESS )
 
