@@ -188,16 +188,22 @@ Active Bitcoin-Nostr Dev:
 
 http://primal.net/p/npub1pkx92m60skq9pzs90m3yqq9tvwh03xhzc0haeqqc4exjcu7l6ntsanxwks
 
+
 ## Product Demo
+[![Bitcoin Bank Nostr](https://github.com/joanna2028/bitcoin-bank-nostr/raw/main/banner.jpg)](https://github.com/joanna2028/bitcoin-bank-nostr)
+
 https://github.com/joanna2028/bitcoin-bank-nostr
 
-## Contacts
-Nostr: npub1pkx92m60skq9pzs90m3yqq9tvwh03xhzc0haeqqc4exjcu7l6ntsanxwks
+## Figma Pitch + Prototype
+https://www.figma.com/make/Serb6fVnbXF1jXxDo0jNLv/Bitcoin-Bank-Prototype
 
-X: @joan_internet
+## Contact
+**Nostr:** npub1pkx92m60skq9pzs90m3yqq9tvwh03xhzc0haeqqc4exjcu7l6ntsanxwks  
+**X:** @joan_internet  
+**Email:** jsmith_life@proton.me
 
-
-**Status:** Ready for Peter ("unite crypto in Bitcoin AGI").
+---
+**Status:** Ready for Peter Thiel - "Unite crypto in Bitcoin AGI" 🚀
 
             
 
