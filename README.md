@@ -197,6 +197,8 @@ Nostr: npub1pkx92m60skq9pzs90m3yqq9tvwh03xhzc0haeqqc4exjcu7l6ntsanxwks
 X: @joan_internet
 
 
+**Status:** Ready for Peter ("unite crypto in Bitcoin AGI").
+
             
 
 
