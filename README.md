@@ -194,8 +194,11 @@ http://primal.net/p/npub1pkx92m60skq9pzs90m3yqq9tvwh03xhzc0haeqqc4exjcu7l6ntsanx
 
 https://github.com/joanna2028/bitcoin-bank-nostr
 
-## Figma Pitch + Prototype
+## Figma Prototype
 https://www.figma.com/make/Serb6fVnbXF1jXxDo0jNLv/Bitcoin-Bank-Prototype
+
+## Figma Pitch 
+https://www.figma.com/make/TaRlRAVivhZrujfjYsN1MO/Pitch-Deck-Creation
 
 ## Contact
 **Nostr:** npub1pkx92m60skq9pzs90m3yqq9tvwh03xhzc0haeqqc4exjcu7l6ntsanxwks  
