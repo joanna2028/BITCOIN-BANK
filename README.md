@@ -188,6 +188,14 @@ Active Bitcoin-Nostr Dev:
 
 http://primal.net/p/npub1pkx92m60skq9pzs90m3yqq9tvwh03xhzc0haeqqc4exjcu7l6ntsanxwks
 
+## Product Demo
+https://github.com/joanna2028/bitcoin-bank-nostr
+
+## Contacts
+Nostr: npub1pkx92m60skq9pzs90m3yqq9tvwh03xhzc0haeqqc4exjcu7l6ntsanxwks
+
+X: @joan_internet
+
 
             
 
